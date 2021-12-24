@@ -1,5 +1,6 @@
 # bios-settings-for-linux
-Notes on bios settings for linux
+Notes on bios settings for linux 
+
 Example Lenovo Thinkbook G3
 
 ## Pre-installation BIOS set up
