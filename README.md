@@ -1,7 +1,6 @@
 # bios-settings-for-linux
 Notes on bios settings for linux 
-
-Example Lenovo Thinkbook G3
+Example: Lenovo Thinkbook G3
 
 ## Pre-installation BIOS set up
 - Boot into BIOS by pressing F1 at splash screen
