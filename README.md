@@ -12,7 +12,6 @@ Notes on bios settings for installing linux.
 - Choose e.g. install Ubuntu, from GRUB menu
 
 --- 
-<table><tr><td>
 ## For system with nvidia graphic card
 - Select 'Install third-party software'
 - At Terminal, run
@@ -26,6 +25,6 @@ sudo reboot
 ```
 nvidia-smi
 ```
-</td></tr></table>
+
 
 ENDS
