@@ -12,7 +12,8 @@ Notes on bios settings for installing linux.
 - From GRUB menu, choose e.g. install Ubuntu
 
 --- 
-## For system with nvidia graphic card
+## Extra
+### For system with nvidia graphic card
 - Select 'Install third-party software'
 - At Terminal, run
 ```
