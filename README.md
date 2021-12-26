@@ -2,14 +2,14 @@
 Notes on bios settings for installing linux. 
 
 ## Pre-installation BIOS settings
-- Boot into BIOS by pressing F1 on splash screen
+- On splash screen press F1, boot into BIOS
 - Config -> Storage -> Controller mode -> AHCI
 - Security -> Secure boot -> OFF
-- Config -> Display -> Graphic device -> Hybrid
+- Config -> Display -> Graphic device -> Hybrid 
 
 ## Insert Linux boot USB 
-- Boot into Boot menu list by pressing F12 on splash screen
-- Choose e.g. install Ubuntu, from GRUB menu
+- On splash screen press F12, boot into 'Boot menu list'
+- From GRUB menu, choose e.g. install Ubuntu
 
 --- 
 ## For system with nvidia graphic card
